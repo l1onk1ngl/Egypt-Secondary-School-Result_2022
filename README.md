@@ -1,4 +1,4 @@
-# Egypt-Secondary-School-Result_2022_Destor
+# Egypt-Secondary-School-Result_2022_Dostor
 ![الدستور](https://user-images.githubusercontent.com/41956628/201091315-e3e9a897-cb9a-4eff-aacd-b8e7dc707d18.png)
 
 ## Downlaod:
